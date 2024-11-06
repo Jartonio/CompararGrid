@@ -179,7 +179,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void main() {
-        long numCoordinates = 1000;
+        long numCoordinates = 10000;
         String resultadoGrid;
         String resultadoGridGPT;
         int diferencias = 0;
